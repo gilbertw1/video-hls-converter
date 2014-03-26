@@ -3,6 +3,19 @@ video-hls-converter
 
 A simple scala program that uses ffmpeg to convert videos to multivariant hls
 
+
+Prerequisites
+-------------
+
+Compile/Install ffmpeg Ubuntu (WARNING: Takes a loooong time!)
+
+    $ scripts/install-ffmpeg-ubuntu.sh
+
+Install ffmpeg osx (requires homebrew)
+
+    $ scripts/install-ffmpeg-osx-requires-homebrew.sh
+
+
 Getting Started
 ---------------
 
