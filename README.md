@@ -26,9 +26,3 @@ Run Jar:
     
     $ java -jar video-hls-converter.jar <in-dir> <out-dir> <bitrates>
     $ java -jar video-hls-converter.jar videos hls 128,256
-
-
-Configuration
--------------
-
-Configuration can be provided as the first argument to the North Poller. An example config [can be found here](example.conf).
